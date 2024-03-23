@@ -1,0 +1,1 @@
+APP QR Code Generator
